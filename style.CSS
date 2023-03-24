@@ -1,0 +1,82 @@
+img{
+    width: 149px;
+    border-radius: 50%;
+    margin-left: 40px;
+    margin-top: 20px;
+    border: 2px solid white;
+}
+.d{
+    margin-left: 6%;
+    padding-right: 8%;
+    padding-bottom: 20%;
+}
+.g{
+    margin-left: 35%;
+    margin-top: -20%;
+    width: 550px;
+    height: 180px;
+}
+.h{
+    background-color: #94a6bd;
+}
+
+.tel{
+    display: flex;
+    align-items: center;
+}
+.f{
+    color: white;
+    background-color: #353e4d;
+    float: left;
+    width: 200px;
+    
+    
+}
+.e{
+    background-color: #fff;
+    float: right;
+    width: 600px;
+}
+.tel h4{
+    padding-left: 10px;
+}
+.email{
+    display: flex;
+    align-items: center;
+}
+.email h4{
+    padding-left: 10px;
+}.ville{
+    display: flex;
+    align-items: center;
+}
+.ville h4{
+    padding-left: 10px;
+}
+.Linkedin{
+    display: flex;
+    align-items: center;
+}
+.Linkedin h4{
+    padding-left: 10px;
+}
+@media screen {
+    
+}
+.z{
+    font-weight: 500;
+}
+h2{
+    
+    margin-right: 60px;
+    border-left: 2px solid white;
+}
+.ZZ{
+    border-left: 2px solid black;
+}
+.ZZZ{
+    text-align: center;
+} 
+.ala{
+    line-height: 1.0;
+}
